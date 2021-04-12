@@ -55,3 +55,4 @@ Add the following items into your menu:
 **Delete task** should print all the tasks sorted by the deadline date and ask to enter the number of the task to delete.
 
 See in the example what your program should look like.
+https://www.loom.com/share/f30e33fa42544e0093602c406ad173cb?sharedAppSource=personal_library 
